@@ -1,0 +1,1 @@
+Suba todos los archivos, menos este fichero (leeme.txt) a la carpeta raiz de su sitio web y ya tendra su sitio web completamente operativo. Una vez subido puede verificar la propiedad de su sitio web desde LinxGO(c).
